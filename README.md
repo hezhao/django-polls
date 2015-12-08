@@ -29,3 +29,7 @@ Quick start
    to create a polls (you'll need the Admin app enabled).
 
 5. Visit http://127.0.0.1:8000/polls/ to participate in the polls.
+
+Useful Commands
+---------------
+[Here](https://gist.github.com/hezhao/d48ddc37579c25f46408) is a list of useful Django commands.
